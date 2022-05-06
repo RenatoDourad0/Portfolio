@@ -1,0 +1,16 @@
+body{
+    color: #023c40;
+    background-color: #f9e7e7;
+    text-align: center;
+}
+h1{
+    font-family: fantasy;
+}
+ul{
+    padding-right: 20px;
+    list-style: none;
+}
+ul a{
+    color: #023c40;
+    text-decoration: none;
+}
