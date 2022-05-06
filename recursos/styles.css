@@ -1,0 +1,27 @@
+body{
+    color: #023c40;
+    background-color: #f9e7e7;
+    text-align: center;
+}
+h1{
+    font-family: fantasy;
+}
+ul{
+    padding-right: 20px;
+    list-style: none;
+}
+ul a{
+    color: #023c40;
+    text-decoration: none;
+}
+strong {
+    font-weight: normal;
+    background-color: #bc6c25;
+    padding: 5px;
+}
+.um{
+    font-size: 16px;
+}
+.dois{
+    font-size: 20px;
+}
