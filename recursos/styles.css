@@ -20,6 +20,9 @@ ul li{
     font-size: 40px;
     margin: 0 10%;
 }
+#marcador{
+    margin-left: 80px;
+}
 ul a{
     color: black;
     text-decoration: none;
