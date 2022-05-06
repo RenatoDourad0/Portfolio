@@ -1,23 +1,54 @@
 body{
-    color: #023c40;
-    background-color: #f9e7e7;
+    background-color: #c1bdb3;
     text-align: center;
 }
-h1{
-    font-family: fantasy;
-}
+
 ul{
-    padding-right: 20px;
+    border-radius: 5px;
     list-style: none;
+    background-color: #7f7979;
+    padding: 15px;
+
+}
+ul li{
+    display: inline-block;
+    vertical-align: middle;
+    flex-wrap: nowrap;
+}
+#titulo{
+    font-family: fantasy;
+    font-size: 40px;
+    margin: 0 10%;
 }
 ul a{
-    color: #023c40;
+    color: black;
     text-decoration: none;
+    background-color: #c1bdb3;
+    font-size: 20px;
+    margin-left: ;
+    margin-right: 20px;
+    padding: 10px;
+    border-radius: 5px;
 }
+.imagem{
+    width: 130px;
+    border-radius: 100px;
+}
+.box{
+    display: flex;
+}
+.descricao, .habilidades{
+    width: 40%;
+    color: #c1bdb3;
+    background-color: #022b3a;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
 strong {
     font-weight: normal;
-    background-color: #bc6c25;
-    padding: 5px;
+    background-color: #6b2b06;
 }
 .um{
     font-size: 16px;
