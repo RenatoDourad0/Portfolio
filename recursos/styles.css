@@ -4,10 +4,10 @@ body{
 }
 
 ul{
-    border-radius: 5px;
     list-style: none;
     background-color: #7f7979;
-    padding: 15px;
+    padding: 10px;
+    border-radius: 5px;
 
 }
 ul li{
@@ -25,9 +25,8 @@ ul a{
     text-decoration: none;
     background-color: #c1bdb3;
     font-size: 20px;
-    margin-left: ;
     margin-right: 20px;
-    padding: 10px;
+    padding: 5px;
     border-radius: 5px;
 }
 .imagem{
@@ -39,10 +38,9 @@ ul a{
     width: 100%;
     margin: auto;
 }
-.box{
-}
+
 .descricao, .habilidades{
-    width: 40%;
+
     color: #c1bdb3;
     background-color: #022b3a;
     padding: 30px;
