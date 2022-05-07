@@ -13,16 +13,13 @@ ul{
 ul li{
     display: inline-block;
     vertical-align: middle;
-    flex-wrap: nowrap;
 }
 #titulo{
     font-family: fantasy;
     font-size: 40px;
-    margin: 0 10%;
+    margin: 2% 10%;
 }
-#marcador{
-    margin-left: 80px;
-}
+
 ul a{
     color: black;
     text-decoration: none;
@@ -34,6 +31,7 @@ ul a{
     border-radius: 5px;
 }
 .imagem{
+    margin: 1%;
     width: 130px;
     border-radius: 100px;
 }
@@ -42,7 +40,6 @@ ul a{
     margin: auto;
 }
 .box{
-    display: flex;
 }
 .descricao, .habilidades{
     width: 40%;
