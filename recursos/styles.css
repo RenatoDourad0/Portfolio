@@ -24,6 +24,10 @@ ul a{
     padding: 5px;
     border-radius: 5px;
 }
+ul a:hover{
+    background-color: #784325;
+    color: #c1bdb3;
+}
 .imagem{
     margin: 1%;
     width: 200px;
@@ -33,10 +37,6 @@ ul a{
     font-family: fantasy;
     font-size: 2.5em;
     margin: 2% 10%;
-}
-.outer-box{
-    width: 100%;
-    margin: auto;
 }
 .descricao, .habilidades{
     color: #c1bdb3;
@@ -52,4 +52,17 @@ strong {
 }
 .um, .dois{
     font-size: 1em;
+}
+.link_rodape{
+    color: black;
+    text-decoration: none;
+    background-color: #7f7979;
+    font-size: 1em;
+    margin-right: 20px;
+    padding: 0 10px;
+    border-radius: 5px;
+}
+.link_rodape:hover{
+    background-color: #784325;
+    color: #c1bdb3;
 }
