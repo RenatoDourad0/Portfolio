@@ -66,3 +66,6 @@ strong {
     background-color: #784325;
     color: #c1bdb3;
 }
+.um li:nth-child(odd){
+    color: #6b2b06;
+}
